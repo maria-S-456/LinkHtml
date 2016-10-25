@@ -1,0 +1,30 @@
+div {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+}
+h1 {
+	color:red;
+	font-size:20px;
+}
+span {
+	color:green;
+}
+#firstSpan {
+	color:blue;
+}
+#BId {
+	font-size:50px;
+}
+#firstColor {
+	color:black;
+}
+#secondColor {
+	color:brown;
+}
+.points {
+	color:orange;
+}
+.listPoints {
+	color:red;
+}
